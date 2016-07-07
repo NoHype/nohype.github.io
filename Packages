@@ -5,8 +5,8 @@ Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.alexzielenski.zeppelin
 Filename: debs//com.nohype.zeplogo.deb
 Size: 16200
-MD5sum: 53e20b9b958ea7b9779ea09a9dd2c96c
-SHA1: 6b571584b96cca64707a6c273d6f2c6e21747032
+MD5sum: 53E20B9B958EA7B9779EA09A9DD2C96C
+SHA1: 6B571584B96CCA64707A6C273D6F2C6E21747032
 Section: Themes (Zeppelin)
 Description: NoHypeApparel Zeppelin Logo
 Author: Ryan Baldwin <passingintime@gmail.com>
