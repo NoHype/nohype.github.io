@@ -17,12 +17,12 @@ Package: com.nohype.respring
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
-Depends: 
+Depends: none
 Filename: debs//com.nohype.respring.deb
 Size: 113480
 MD5sum: 5504395bcdeb46b671e38cd4f020382d
 SHA1: 5a12f02070084dff119d42b68645b2adac0a5804
-Section: Themes (Zeppelin)
+Section: Themes
 Description: NoHypeApparel Respring Logo
 Author: Ryan Baldwin <passingintime@gmail.com>
 Depiction: https://nohype.github.io/Depic/com.nohype.repring/index.html
