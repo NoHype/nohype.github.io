@@ -17,7 +17,6 @@ Package: com.nohype.respring
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
-Depends: none
 Filename: debs//com.nohype.respring.deb
 Size: 113480
 MD5sum: 5504395bcdeb46b671e38cd4f020382d
