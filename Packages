@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.alexzielenski.zeppelin
 Filename: debs//com.nohype.zeplogo.deb
-Size: 16196
-MD5sum: 07f0130aed8105848641e41ec0e5021e
-SHA1: 0d58f7916bc52068dea8f65c2c0254752a0ae195
+Size: 16200
+MD5sum: 53e20b9b958ea7b9779ea09a9dd2c96c
+SHA1: 6b571584b96cca64707a6c273d6f2c6e21747032
 Section: Themes (Zeppelin)
 Description: NoHypeApparel Zeppelin Logo
 Author: Ryan Baldwin <passingintime@gmail.com>
