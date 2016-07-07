@@ -1,4 +1,4 @@
-Package: com.passingintime.geeksquad
+Package: com.nohype.zeplogo
 Version: 3.0
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
@@ -10,5 +10,5 @@ SHA1: 0d58f7916bc52068dea8f65c2c0254752a0ae195
 Section: Themes (Zeppelin)
 Description: NoHypeApparel Zeppelin Logo
 Author: Ryan Baldwin <passingintime@gmail.com>
-Depiction: http://passingintime.github.io/Depic/com.passingintime.geeksquad/index.html
+Depiction: https://nohype.github.io/Depic/com.nohype.zeplogo/index.html
 Name: NoHypeApparel Zeppelin Logo
