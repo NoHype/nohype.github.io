@@ -1,0 +1,14 @@
+Package: com.nohype.zeplogo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.alexzielenski.zeppelin
+Filename: debs//com.nohype.zeplogo.deb
+Size: 16200
+MD5sum: 53e20b9b958ea7b9779ea09a9dd2c96c
+SHA1: 6b571584b96cca64707a6c273d6f2c6e21747032
+Section: Themes (Zeppelin)
+Description: NoHypeApparel Zeppelin Logo
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: https://nohype.github.io/Depic/com.nohype.zeplogo/index.html
+Name: NoHypeApparel Zeppelin Logo
