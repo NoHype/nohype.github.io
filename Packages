@@ -26,3 +26,17 @@ Description: NoHypeApparel Respring Logo
 Author: Ryan Baldwin <passingintime@gmail.com>
 Depiction: https://nohype.github.io/Depic/com.nohype.repring/index.html
 Name: NoHypeApparel Respring Logo
+
+Package: com.nohype.wallpaper
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Filename: debs//com.nohype.wallpaper.deb
+Size: 164488
+MD5sum: 0c257058ec4b66e69a0b3105397fc2b0
+SHA1: fb4bd86d219bf37179e74021aeb07350fb2dce58
+Section: Themes
+Description: NoHypeApparel Wallpaper
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: https://nohype.github.io/Depic/com.nohype.wallpaper/index.html
+Name: NoHypeApparel Wallpaper
