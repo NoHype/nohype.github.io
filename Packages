@@ -40,3 +40,18 @@ Description: NoHypeApparel Wallpaper
 Author: Ryan Baldwin <passingintime@gmail.com>
 Depiction: https://nohype.github.io/Depic/com.nohype.wallpaper/index.html
 Name: NoHypeApparel Wallpaper
+
+Package: com.nohype.lockglyph
+Version: 0.5
+Architecture: iphoneos-arm
+Maintainer: PassingInTime <passingintime@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: debs//com.nohype.lockglyph.deb
+Size: 5508
+MD5sum: 44270581fcd2f7630af3508ad189f300
+SHA1: 2df0d9aafe01da7bdb468430a48d4fcdf09cb300
+Section: Themes (LockGlyph)
+Description: NoHypeApparel LockGlyph
+Author: Ryan Baldwin <passingintime@gmail.com>
+Depiction: https://nohype.github.io/Depic/com.nohype.lockglyph/index.html
+Name: NoHypeApparel LockGlyph
