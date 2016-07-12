@@ -1,4 +1,4 @@
-Package: com.nohype.zeplogo
+ackage: com.nohype.zeplogo
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
@@ -14,13 +14,13 @@ Depiction: https://nohype.github.io/Depic/com.nohype.zeplogo/index.html
 Name: NoHypeApparel Zeppelin Logo
 
 Package: com.nohype.respring
-Version: 1.0
+Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Filename: debs//com.nohype.respring.deb
-Size: 113480
-MD5sum: 5504395bcdeb46b671e38cd4f020382d
-SHA1: 5a12f02070084dff119d42b68645b2adac0a5804
+Size: 238752
+MD5sum: 94c13160afd60c1afee9b27a833347f5
+SHA1: 721963324d37b696a7d616ab6d62851ef5f57b6f
 Section: Themes
 Description: NoHypeApparel Respring Logo
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -28,13 +28,13 @@ Depiction: https://nohype.github.io/Depic/com.nohype.repring/index.html
 Name: NoHypeApparel Respring Logo
 
 Package: com.nohype.wallpaper
-Version: 1.0
+Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Filename: debs//com.nohype.wallpaper.deb
-Size: 164488
-MD5sum: 0c257058ec4b66e69a0b3105397fc2b0
-SHA1: fb4bd86d219bf37179e74021aeb07350fb2dce58
+Size: 307402
+MD5sum: 5d0f3991b3566bdee955bd6b87052070
+SHA1: 796b7453bc751c1136f04e36fbc530f9d6f58a44
 Section: Themes
 Description: NoHypeApparel Wallpaper
 Author: Ryan Baldwin <passingintime@gmail.com>
