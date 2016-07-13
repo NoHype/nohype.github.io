@@ -1,0 +1,8 @@
+Origin: NoHype Repo
+Label: NoHype Repo
+Suite: Stable
+Version: 1.0
+Codename: NoHype
+Architectures: iphoneos-arm
+Components: main
+Description: NoHype Repo

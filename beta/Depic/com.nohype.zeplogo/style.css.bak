@@ -1,0 +1,26 @@
+@font-face {
+	font-family: nexa;
+	src: url(nexalight.otf);
+}
+
+html, body {
+	background-color: #BDFCC9;
+	font-family: nexa;
+}
+
+panel > fieldset {
+	background-color: lightblue;
+}
+
+panel > label {
+	font-size: 5vw;
+}
+
+panel > fieldset > div > p, a {
+	text-align: center;
+}
+
+.icon {
+	display: inline-block;
+	height: 5%;
+}
