@@ -47,9 +47,9 @@ Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.nohype.lockglyph.deb
-Size: 45358
-MD5sum: eca8949628f58db0ca45d61dde6c0e35
-SHA1: 657f17a36b91e26836555cdd0d9e1a37c74ca597
+Size: 5510
+MD5sum: 86e4a67afc374452aad93ff6ad764dd8
+SHA1: efece59caa07a4710550314ea30a4b7894d0bf0f
 Section: Themes (LockGlyph)
 Description: NoHypeApparel LockGlyph
 Author: Ryan Baldwin <passingintime@gmail.com>
