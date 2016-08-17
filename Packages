@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.alexzielenski.zeppelin
 Filename: debs//com.nohype.zeplogo.deb
-Size: 16200
-MD5sum: 53e20b9b958ea7b9779ea09a9dd2c96c
-SHA1: 6b571584b96cca64707a6c273d6f2c6e21747032
+Size: 16182
+MD5sum: 63eb2e90fbeb48b8b0bd5bf4c15a8d4d
+SHA1: 2a77409fe8968b14451fa665bf94dc84edf3c79d
 Section: Themes (Zeppelin)
 Description: NoHypeApparel Zeppelin Logo
 Author: Ryan Baldwin <passingintime@gmail.com>
@@ -47,9 +47,9 @@ Architecture: iphoneos-arm
 Maintainer: PassingInTime <passingintime@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: debs//com.nohype.lockglyph.deb
-Size: 5510
-MD5sum: 86e4a67afc374452aad93ff6ad764dd8
-SHA1: efece59caa07a4710550314ea30a4b7894d0bf0f
+Size: 45358
+MD5sum: eca8949628f58db0ca45d61dde6c0e35
+SHA1: 657f17a36b91e26836555cdd0d9e1a37c74ca597
 Section: Themes (LockGlyph)
 Description: NoHypeApparel LockGlyph
 Author: Ryan Baldwin <passingintime@gmail.com>
